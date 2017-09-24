@@ -4,5 +4,4 @@ version = "0.1.0"
 authors = ["Victor Korkin <victor.korkin@gmail.com>"]
 
 [dependencies]
-threadpool = "1.*"
 chan = "*"
